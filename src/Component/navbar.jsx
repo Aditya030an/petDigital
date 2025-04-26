@@ -63,7 +63,7 @@
 import React, { useState } from "react";
 import { FaPhoneAlt, FaEnvelope, FaBars, FaTimes, FaChevronDown } from "react-icons/fa";
 import { Link } from "react-router-dom";
-import logo from "./photos/digitallogo.png";
+import logo from "./photos/DigitalLogo.png";
 
 const Navbar = () => {
   const [isOpen, setIsOpen] = useState(false);
